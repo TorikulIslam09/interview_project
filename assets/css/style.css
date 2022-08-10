@@ -368,8 +368,12 @@ width: 32%;
     
     .third_row .team-four {
         width: 100%;
-        margin-top: 40px;
+        margin-top: 73px;
     }
+    .spring-section .second_row {
+        padding-bottom: 15px;
+    }
+}
 
 
     @media only screen and (max-width: 767px){
@@ -390,9 +394,13 @@ width: 32%;
         .spring-section .first-row .content h1 {
             font-size: 22px;
         }
+        .team-third .team-content-third h2 {
+            font-size: 24px;
+           
+        }
     }
    
-  }
+  
 
   
   @media only screen and (max-width: 580px){
